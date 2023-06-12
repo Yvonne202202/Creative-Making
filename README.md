@@ -15,12 +15,14 @@ https://youtu.be/vOj424dtv98
 
 ## Project brief
 Touch is a universal body language. People can convey rich emotions such as comfort and love through touch. However, the emotion is abstract. We hope to present the power of touch to the audience through the multi-sensory experience system of vision, hearing and touch, and transform abstract emotions into tangible experiences.
+
 <div align=center>
   <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/15.jpg" width="80%">
 </div>
 
 ## Process
 At the beginning of the project, my team members and I discussed how to show the tactile experience between people to the audience in a more intuitive way. We believe that controlling the game through the player's physical communication can enhance the audience's sense of engagement. Therefore, we decided to show the whole game to the audience in the form of a vinyl record. By recording the physical interaction between the players, the musical performance and interesting special effects make the entire interaction more memorable.
+
 <div align=center>
   <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/16.jpg" width="80%">
 </div>
@@ -46,12 +48,15 @@ I made a homemade Makey Makey board using Arduino Leonardo, bread board and some
 </div>
 
 This homemade makey makey can detect voltage changes, but its effect is still not as good as we expect, it is not sensitive enough. To achieve a better experience, we decided to use the makeymakey board for interaction.
+
 <div align=center>
   <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/8.jpg" width="60%">
   <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/5.jpg" width="60%">
   <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/6.jpg" width="60%">
 </div>
+
 In addition, we made a record player controlled by Arduino and a motor. We use unity to send a signal to Arduino, and when the game starts the vinyl starts spinning.
+
 <div align=center>
   <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/20.jpg" width="100%">
   <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/7.jpg" width="100%">
