@@ -40,7 +40,6 @@ Makey Makey works by connecting a high resistance resistor to its master. When t
 
 I made a homemade Makey Makey board using Arduino Leonardo, bread board and some resistors following the instructions in the tutorial. I then simulated Makey's functionality by sending signals to Unity to control effects and music playback.
 
-
 <div align=center>
   <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/1.jpg" width="30%">  <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/19.jpg" width="30%">
 </div>
