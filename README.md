@@ -24,5 +24,6 @@ At the beginning of the project, my team members and I discussed how to show the
 <div align=center>
   <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/16.jpg" width="80%">
 </div>
+Then we began to divide up the project work. An Dong and Runyi Liao were responsible for building the model space of the game, while I focused on researching and practicing the aspects of the physical implementation.
 
 ## User experience
