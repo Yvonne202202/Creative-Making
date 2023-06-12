@@ -60,7 +60,8 @@ In addition, we made a record player controlled by Arduino and a motor. We use u
 ## User experience
 
 <div align=center>
-  <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/12.jpg" width="60%">
-  <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/13.jpg" width="60%">
-  <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/14.jpg" width="60%">
+  <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/10.jpg" width="40%"> <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/11.jpg" width="40%">
+  <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/13.jpg" width="40%"> <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/12.jpg" width="40%">
+  <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/14.jpg" width="80%">
+
 </div>
