@@ -29,5 +29,21 @@ Then we began to divide up the project work. An Dong and Runyi Liao were respons
 
 In order to achieve touch sensing between people, I first explored the ADCTouch library. According to the documentation, the library utilizes the internal wiring of the AVR microcontroller to measure capacitance. It allows users to create capacitive sensors without the need for external hardware, which meets our needs for physical input signals. We want to send signals to Unity without using any sensors, just by monitoring the voltage changes when human bodies touch each other.
 
+When a person touches the wire, the value of the serial port monitor changes significantly. However, when I tried to get someone to touch someone who holding a wire, I didn't get the readings I expected. In this case, the value of the serial port monitor does not change significantly.
+
+<div align=center>
+  <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/1.jpg" width="30%">  <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/2.jpg" width="30%">
+</div>
+After looking through a lot of sources and examples, we found another method that may help us achieve the desired results: Create a makey makey-like device with an Arduino Leonardo.
+
+Makey Makey works by connecting a high resistance resistor to its master. When the conductive object is connected to the resistor in series, the voltage partial voltage of the external circuit will be reduced. Once a voltage change is detected, the master sends a signal. Using Makey Makey simply connects multiple wires to the master and other pins separately. When one person holds the wire connected to the master and another person holds the other pins to form a loop, the transmission of the signal will be triggered.
+
+I made a homemade Makey Makey board using Arduino Leonardo, bread board and some resistors following the instructions in the tutorial. I then simulated Makey's functionality by sending signals to Unity to control effects and music playback.
+
+
+<div align=center>
+  <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/1.jpg" width="30%">  <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/19.jpg" width="30%">
+</div>
+
 
 ## User experience
