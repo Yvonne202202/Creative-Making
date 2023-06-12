@@ -59,10 +59,12 @@ In addition, we made a record player controlled by Arduino and a motor. We use u
 
 <div align=center>
   <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/20.jpg" width="100%">
-  <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/7.jpg" width="100%">
+  <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/7.jpg" width="45%"> <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/9.jpg" width="45%">
 </div>
 
 ## User experience
+
+We invited some students to experience it and got good feedback.
 
 <div align=center>
   <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/10.jpg" width="40%"> <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/11.jpg" width="40%">
