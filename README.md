@@ -54,7 +54,7 @@ This homemade makey makey can detect voltage changes, but its effect is still no
 In addition, we made a record player controlled by Arduino and a motor. We use unity to send a signal to Arduino, and when the game starts the vinyl starts spinning.
 <div align=center>
   <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/20.jpg" width="100%">
-  <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/20.jpg" width="100%">
+  <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/7.jpg" width="100%">
 </div>
 
 ## User experience
