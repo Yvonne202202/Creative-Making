@@ -47,7 +47,7 @@ I made a homemade Makey Makey board using Arduino Leonardo, bread board and some
   <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/1.jpg" width="30%">  <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/19.jpg" width="30%">
 </div>
 
-This homemade makey makey can detect voltage changes, but its effect is still not as good as we expect, it is not sensitive enough. To achieve a better experience, we decided to use the makeymakey board for interaction.
+This homemade makey makey can detect voltage changes, but its effect is still not as good as we expect, it is not sensitive enough. To achieve a better experience, we decided to use the makey makey board for interaction.
 
 <div align=center>
   <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/8.jpg" width="60%">
