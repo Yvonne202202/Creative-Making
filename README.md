@@ -1,4 +1,5 @@
 # The Power of Touch
+<img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/17.jpg" width="45%">  <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/18.jpg" width="45%">
 
 Team members: An Dong, Runyi Liao, Yu Wang
 
