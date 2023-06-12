@@ -13,8 +13,13 @@ https://youtu.be/vOj424dtv98
 
 
 ## Project brief
-
-
+Touch is a universal body language. People can convey rich emotions such as comfort and love through touch. However, the emotion is abstract. We hope to present the power of touch to the audience through the multi-sensory experience system of vision, hearing and touch, and transform abstract emotions into tangible experiences.
+<div align=center>
+  <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/15.jpg" width="80%">
+</div>
+<div align=center>
+  <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/16.jpg" width="80%">
+</div>
 
 ## Process
 
