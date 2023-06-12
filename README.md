@@ -18,11 +18,11 @@ Touch is a universal body language. People can convey rich emotions such as comf
 <div align=center>
   <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/15.jpg" width="80%">
 </div>
+
+## Process
+At the beginning of the project, my team members and I discussed how to show the tactile experience between people to the audience in a more intuitive way. We believe that controlling the game through the player's physical communication can enhance the audience's sense of engagement. Therefore, we decided to show the whole game to the audience in the form of a vinyl record. By recording the physical interaction between the players, the musical performance and interesting special effects make the entire interaction more memorable.
 <div align=center>
   <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/16.jpg" width="80%">
 </div>
-
-## Process
-
 
 ## User experience
