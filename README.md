@@ -34,6 +34,7 @@ When a person touches the wire, the value of the serial port monitor changes sig
 <div align=center>
   <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/1.jpg" width="30%">  <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/2.jpg" width="30%">
 </div>
+
 After looking through a lot of sources and examples, we found another method that may help us achieve the desired results: Create a makey makey-like device with an Arduino Leonardo.
 
 Makey Makey works by connecting a high resistance resistor to its master. When the conductive object is connected to the resistor in series, the voltage partial voltage of the external circuit will be reduced. Once a voltage change is detected, the master sends a signal. Using Makey Makey simply connects multiple wires to the master and other pins separately. When one person holds the wire connected to the master and another person holds the other pins to form a loop, the transmission of the signal will be triggered.
@@ -44,5 +45,22 @@ I made a homemade Makey Makey board using Arduino Leonardo, bread board and some
   <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/1.jpg" width="30%">  <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/19.jpg" width="30%">
 </div>
 
+This homemade makey makey can detect voltage changes, but its effect is still not as good as we expect, it is not sensitive enough. To achieve a better experience, we decided to use the makeymakey board for interaction.
+<div align=center>
+  <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/8.jpg" width="60%">
+  <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/5.jpg" width="60%">
+  <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/6.jpg" width="60%">
+</div>
+In addition, we made a record player controlled by Arduino and a motor. We use unity to send a signal to Arduino, and when the game starts the vinyl starts spinning.
+<div align=center>
+  <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/20.jpg" width="100%">
+  <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/20.jpg" width="100%">
+</div>
 
 ## User experience
+
+<div align=center>
+  <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/12.jpg" width="60%">
+  <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/13.jpg" width="60%">
+  <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/14.jpg" width="60%">
+</div>
