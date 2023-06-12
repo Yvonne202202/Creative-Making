@@ -24,6 +24,10 @@ At the beginning of the project, my team members and I discussed how to show the
 <div align=center>
   <img src="https://github.com/Yvonne202202/Creative-Making/blob/main/images/16.jpg" width="80%">
 </div>
-Then we began to divide up the project work. An Dong and Runyi Liao were responsible for building the model space of the game, while I focused on researching and practicing the aspects of the physical implementation.
+
+Then we began to divide up the project work. An Dong and Runyi Liao were responsible for building the model space of the game, while I focused on researching and practicing the aspects of the physical implementation.  
+
+In order to achieve touch sensing between people, I first explored the ADCTouch library. According to the documentation, the library utilizes the internal wiring of the AVR microcontroller to measure capacitance. It allows users to create capacitive sensors without the need for external hardware, which meets our needs for physical input signals. We want to send signals to Unity without using any sensors, just by monitoring the voltage changes when human bodies touch each other.
+
 
 ## User experience
